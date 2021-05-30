@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## GitHub Pages Notes
 
-You can use the [editor on GitHub](https://github.com/ddavil8/ddavil8.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Use the [editor on GitHub](https://github.com/ddavil8/ddavil8.github.io/edit/main/index.md) to maintain and preview the content for the website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever committing to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in  site, from the content in Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+1 hashtag (#) prefix to make Header 1
+2 hashtags (##) prefix to make Header 2
+3 hashtags (###) prefix to make Header 3
 
-- Bulleted
-- List
+Simple dashes (-) make bulletin lists
+Simple numbering (1. 2. 3.) makes a numbered list
 
-1. Numbered
-2. List
+**Bold text has 2 asterisks before and after effected texts** 
+_Italic text has 1 underscore before and after effected texts_ 
+`Code text has a single quotation mark before and after effected tests`
 
-**Bold** and _Italic_ and `Code` text
+Hyperlink structure:
+[Link](url) 
+Example below looks like: 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ddavil8/ddavil8.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Pages will use the layout and styles from the Jekyll theme selected in [repository settings](https://github.com/ddavil8/ddavil8.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Check out [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact)
