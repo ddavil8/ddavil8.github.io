@@ -1,41 +1,30 @@
-## GitHub Pages Notes
+# Project with Purpose
 
-Use the [editor on GitHub](https://github.com/ddavil8/ddavil8.github.io/edit/main/index.md) to maintain and preview the content for the website in Markdown files.
+## Intro
 
-Whenever committing to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in  site, from the content in Markdown files.
+Hi and thank you for visiting my GitHub Page. At first, I did not know what I could do on my own with GitHub, but as I see my son's grades plummet, I realize that I have a very important project. Getting my son interested in school was a struggle even before COVID, but virtual learning made it way too easy for him to check out. Unfortunately, I was unable to attend to his needs since I was in the middle of getting my Bachelor's degree in Computer Information and Technologies during all of this uncertainty. Now that I have graduated and I am taking self-paced classes for my Master's degree in Data Analytics, I feel it's time to use my skills to help build a solid foundation for my son and anyone else's child that could benefit from these applications.
 
-### Markdown
+## Project Breakdown
+1. Programmed Language: C# (console)
+2. Environment: Visual Studios with Git linked to GitHub
+3. Focus on one subject: Math
+4. Zoom on specific subject concepts
+5. Add encouragement despite incorrect selection
+6. Create a database to track progression
+7. Convert console to application
+8. Design application to spark interest
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
-
+### Math
 ```markdown
-Syntax highlighted code block
-
-1 hashtag (#) prefix to make Header 1
-2 hashtags (##) prefix to make Header 2
-3 hashtags (###) prefix to make Header 3
-
-Simple dashes (-) make bulletin lists
-Simple numbering (1. 2. 3.) makes a numbered list
-
-**Bold text has 2 asterisks before and after effected texts** 
-_Italic text has 1 underscore before and after effected texts_ 
-`Code text has a single quotation mark before and after effected tests`
-
-Hyperlink structure:
-[Link](url) 
-Example below looks like: 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
-![Image](src)
+Early Math
+- Counting
+- Addition and subtraction intro
+- Place value (tens and hundreds)
+- Addition and subtraction within 20
+- Addition and subtraction within 100
+- Addition and subtraction within 1000
+- Measurement and data
+- Geometry
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Pages will use the layout and styles from the Jekyll theme selected in [repository settings](https://github.com/ddavil8/ddavil8.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Check out [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact)
+### English Language Arts (ELA)
+I will eventually cross this bridge when I come across it, but the first focus will be Math.
